@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pooja Mahajan</h1>
+<h1 align="center">Pooja Mahajan</h1>
 <h3 align="center">Passionate about problem-solving and creating impactful solutions through AI/ML</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/poojamahajan0712/Data-Science-Portfolio](https://github.com/poojamahajan0712/Data-Science-Portfolio)
+- 👨‍💻 All of my projects are available at [AI/ML Portfolio](https://github.com/poojamahajan0712/Data-Science-Portfolio)
 
-- 📝 I write articles on [https://poojamahajan5131.medium.com/](https://poojamahajan5131.medium.com/)
+- 📝 I write articles on [Medium](https://poojamahajan5131.medium.com/)
 
 - 📫 How to reach me **poojamahajan5131@gmail.com**
 
