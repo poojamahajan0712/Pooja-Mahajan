@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/poojamahajan0712/Data-Science-Portfolio](https://github.com/poojamahajan0712/Data-Science-Portfolio)
 
-- 📝 I regularly write articles on [https://poojamahajan5131.medium.com/](https://poojamahajan5131.medium.com/)
+- 📝 I write articles on [https://poojamahajan5131.medium.com/](https://poojamahajan5131.medium.com/)
 
 - 📫 How to reach me **poojamahajan5131@gmail.com**
 
