@@ -3,5 +3,9 @@ Seasoned Data Scientist with extensive experience in leveraging AI and machine l
 
 
 
-#### You can find my projects here: #####
+#### Find my projects here: #####
 #### [AI ML Project Portfolio](https://github.com/poojamahajan0712/Data-Science-Portfolio) ####
+
+#### Reach out here #####
+#### [Linkedin](https://www.linkedin.com/in/pooja-mahajan-69b38a98/) ####
+
