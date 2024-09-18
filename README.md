@@ -4,4 +4,4 @@ Seasoned Data Scientist with extensive experience in leveraging AI and machine l
 
 
 #### You can find my projects here: #####
-#### [Data Science Portoflio](https://github.com/poojamahajan0712/Data-Science-Portfolio) ####
+#### [AI ML Project Portfolio](https://github.com/poojamahajan0712/Data-Science-Portfolio) ####
